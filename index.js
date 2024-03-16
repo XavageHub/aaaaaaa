@@ -31,34 +31,34 @@ var config = {
 
   images: { //หมวดรูปภาพ
     large: [
-      "https://cdn.discordapp.com/attachments/876295293065367602/1164809654073819176/8432833F-F779-4F13-8CFA-0A571EF083EF.gif?ex=65449086&is=65321b86&hm=a0c4d3e26279f679b0238ff7a324eec69d906ffb8598087deebb6c5a8269df4e&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1218473385860923453/BC89D014-48A5-4C56-83E4-0601684B8EF9.jpg?ex=6607cac5&is=65f555c5&hm=ed93154cb04380d2396fb3f85df9f686817e5ae8b7bf30cc473f272291115a5f&"
 
     ], //ลิงค์รูปใหญ่
     small: [
-      "https://cdn.discordapp.com/attachments/876295293065367602/1163830949499375736/IMG_4619.jpg?ex=65410109&is=652e8c09&hm=14f053820413bb77eadfa09097c681ff8e2a7993b58b22bf4e50b92ab3b359bc&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1218449702148767807/D6A66444-A385-4EE6-8A3F-CD285AA5926F.jpg?ex=6607b4b6&is=65f53fb6&hm=33e05b8d053492b51fa86dc4455cd18ecc846e83abb7f17082280eef4833ffff&"
 
     ] //ลิงค์รูปเล็ก
   },
   buttons: {
     first: { //ปุ่มที่ 1
-      enable: true, //ปิดเปิดปุ่ม true = เปิด false = ปิด
+      enable: false, //ปิดเปิดปุ่ม true = เปิด false = ปิด
       name: [
         "INSTAGRAM ☄"
 
       ], //ชื่อปุ่ม
       link: [
         "https://www.instagram.com/realxicka/",
-        "https://xenoz.x2e.repl.co"
+        
       ] //ลิงค์นำทางของปุ่ม
     },
     two: { //ปุ่มที่ 2
       enable: true, //ปิดเปิดปุ่ม true = เปิด false = ปิด
       name: [
-        "BIOOOOOOO ☥"
+        "INSTAGRAM ☄☥"
 
       ], //ชื่อปุ่ม
       link: [
-        "https://d289074d-727e-402a-a59d-9b6809da58fc-00-2v00cu465df61.global.replit.dev",
+        "https://www.instagram.com/realxicka/ ",
 
       ] //ลิงค์นำทางของปุ่ม
     }
