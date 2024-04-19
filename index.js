@@ -31,11 +31,11 @@ var config = {
 
   images: { //หมวดรูปภาพ
     large: [
-      "https://cdn.discordapp.com/attachments/1202493531961163848/1221889844502986752/2.gif?ex=66143898&is=6601c398&hm=5a42b6ea0828f43d27cc675b721533c98669d2b4f1e7845f01d55c127ce7d5ef&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1230705159529562202/7bd19f30da7db79a.gif?ex=66344a7f&is=6621d57f&hm=73235344e9c2da13c2329c32d062a78a883992f11aa8e54fdbd15372009b9034&"
 
     ], //ลิงค์รูปใหญ่
     small: [
-      "https://cdn.discordapp.com/attachments/1202493531961163848/1221890245025595452/50e3be994ecc32f14d81eec1cd862aeb_hosted_at_ImgBB.gif?ex=661438f8&is=6601c3f8&hm=e30f7989c31f5529b0771cced7a0c4ee582b2fda57a25f9e5bce7035172b0e47&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1230705138914693223/gifs.gif?ex=66344a7a&is=6621d57a&hm=37062b4cc4dc804cd0ec7eb1c9ce2257d58cb792d507754c8b780f8c5af2fa7c&"
 
     ] //ลิงค์รูปเล็ก
   },
