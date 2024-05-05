@@ -31,11 +31,11 @@ var config = {
 
   images: { //หมวดรูปภาพ
     large: [
-      "https://cdn.discordapp.com/attachments/1202493531961163848/1230705159529562202/7bd19f30da7db79a.gif?ex=66344a7f&is=6621d57f&hm=73235344e9c2da13c2329c32d062a78a883992f11aa8e54fdbd15372009b9034&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1236665992386707516/Bulma_.gif?ex=6638d674&is=663784f4&hm=89c2dc784a6081723f739af2c502c4f5944b71fd1d26fb7694aea3afe760581f&"
 
     ], //ลิงค์รูปใหญ่
     small: [
-      "https://cdn.discordapp.com/attachments/1202493531961163848/1230705138914693223/gifs.gif?ex=66344a7a&is=6621d57a&hm=37062b4cc4dc804cd0ec7eb1c9ce2257d58cb792d507754c8b780f8c5af2fa7c&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1236665992894091264/enderman0475.jpg?ex=6638d674&is=663784f4&hm=f34e808f9e81b9a485a569a39404a0c8a16f1c3bbf6e455e7121abd6db1d9b33&"
 
     ] //ลิงค์รูปเล็ก
   },
