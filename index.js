@@ -31,11 +31,11 @@ var config = {
 
   images: { //หมวดรูปภาพ
     large: [
-      "https://cdn.discordapp.com/attachments/1202493531961163848/1257554717526196254/cfc18a6823778c28fffb0fee1fdd3e7f.jpg?ex=6684d498&is=66838318&hm=2eace55e332874620afdcca93430c3dc283e778a68ac086cb9ee62effecca72b&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1288630867341869198/281c51c39a732737.gif?ex=66f5e284&is=66f49104&hm=080db11608f0a82d050e0fec4b78cdd3a6d585b72c1c265999b9d36ffe36a79d&"
 
     ], //ลิงค์รูปใหญ่
     small: [
-      "https://cdn.discordapp.com/attachments/1202493531961163848/1257554447203172372/When_someone_you_dont_know_knows_your_name_.gif?ex=6684d458&is=668382d8&hm=0ce07db2b9678a1ec4e5c8311c236a9add62e7b2a0e511c164cb4400db3be25c&"
+      "https://cdn.discordapp.com/attachments/1202493531961163848/1288630943434936342/2556a260edddbdfa1ccced8d9ed5f326.jpg?ex=66f5e296&is=66f49116&hm=4aada691049bf6c4382d08e05a367b483cfb6ef92df4f9fff65b36f366b21e4a&"
 
     ] //ลิงค์รูปเล็ก
   },
